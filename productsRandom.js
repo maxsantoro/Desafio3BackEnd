@@ -1,4 +1,4 @@
-const Contenedor = require('../Desafio2/Contenedor')
+const Contenedor = require('./contenedor/contenedor')
 const contenedorClass = new Contenedor("./productos.txt")
 const productos = require('./productos')
 

@@ -3,7 +3,7 @@ const app = express()
 const port = 8000
 const productos = require('./productos')
 const productoRandom = require('./productsRandom')
-const Contenedor = require('../Desafio2/Contenedor')
+const Contenedor = require('./contenedor/contenedor')
 const contenedorClass = new Contenedor("./productos.txt")
 
 

@@ -1,17 +1,1 @@
-[
-	{
-		"title": "Cama",
-		"price": 40000,
-		"id": 1
-	},
-	{
-		"title": "Escritorio",
-		"price": 20000,
-		"id": 2
-	},
-	{
-		"title": "Mesa",
-		"price": 15000,
-		"id": 3
-	}
-]
+[{"tittle":"Escuadra","price":125,"thumbnail":"google.com","id":1},{"tittle":"Lapiz","price":50,"thumbnail":"google.com","id":2},{"tittle":"Regla","price":150,"thumbnail":"google.com","id":3}]
